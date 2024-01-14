@@ -1,4 +1,4 @@
-# Product_Profit_Report
+# Product_Profit_Report_Description
 ## Excel
 In this report, I extracted information through Excel files for the products, which recorded the daily sales of each item and the net daily profit. I collected that data in one Excel sheet through two columns, one for the production cost and the other for the total sale during the month for each product. Then I made a column to calculate Net profit by subtracting the total sale from the total production cost, then I calculated the percentage of profit for each product in relation to the selling price, and here the role of Excel ended.
 ## Power_BI
